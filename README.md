@@ -11,4 +11,4 @@ This project is the first project of Front-end developer nano-degree by Udacity.
 2. Once you've added your favorite animal's image and information, add the proper CSS to styles.css of your preference. You’ll need to modify card.html to include attributes and use selectors to specify the elements you want to style. Also, make sure to link to your stylesheet in card.html or else your CSS will not be applied to your webpage.
 
 
-** Enjoy the cute panda! **
+**Enjoy the cute panda!**
