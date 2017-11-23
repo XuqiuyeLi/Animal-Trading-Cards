@@ -1,0 +1,26 @@
+#panda{
+  width: 300px;
+  border: 3px solid; #ffffff;
+  padding: 25px;
+  box-shadow: 9px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.panda-image.information{
+  padding: 5px;
+}
+.panda-image{
+  width: 300px;
+
+}
+.information{
+  border: 3px solid #ddd;
+  padding:10px;
+}
+.interesting-facts{
+  font-style: italic;
+}
+.list{
+  list-style-type: none;
+}
+.labels{
+    font-weight:bold;
+}
